@@ -1,0 +1,13 @@
+#container {
+    margin-top: 10px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+#center {
+    display: block;
+    height: 81px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
